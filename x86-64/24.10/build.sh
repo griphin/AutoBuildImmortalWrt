@@ -23,13 +23,13 @@ echo "$(date '+%Y-%m-%d %H:%M:%S') - 开始编译..."
 
 
 # 定义所需安装的包列表 下列插件你都可以自行删减
-PACKAGES=""
+#PACKAGES=""
 PACKAGES="$PACKAGES iptables-nft"
 PACKAGES="$PACKAGES ip6tables-nft"
-PACKAGES="$PACKAGES openssl-util"
-PACKAGES="$PACKAGES libopenssl"
-PACKAGES="$PACKAGES libopenssl-legacy"
-PACKAGES="$PACKAGES odhcpd"
+#PACKAGES="$PACKAGES openssl-util"
+#PACKAGES="$PACKAGES libopenssl"
+#PACKAGES="$PACKAGES libopenssl-legacy"
+#PACKAGES="$PACKAGES odhcpd"
 PACKAGES="$PACKAGES luci-i18n-dufs-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-zerotier-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
