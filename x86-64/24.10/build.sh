@@ -32,7 +32,7 @@ PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
-# PACKAGES="$PACKAGES luci-i18n-openvpn-sever-zh-cn"
+PACKAGES="$PACKAGES luci-i18n-autoreboot-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-syncthing-zh-cn"
 
 
