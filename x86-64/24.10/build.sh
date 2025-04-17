@@ -35,7 +35,7 @@ PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-firewall-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-autoreboot-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-syncthing-zh-cn"
-PACKAGES="$PACKAGES luci-i18n-qbittorrent-zh-cn"
+# PACKAGES="$PACKAGES luci-i18n-qbittorrent-zh-cn"
 # PACKAGES="$PACKAGES luci-i18n-openvpn-server-zh-cn"
 
 #24.10
