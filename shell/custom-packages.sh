@@ -46,4 +46,4 @@ CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-quickstart-zh-cn"
 # lucky by 古大羊
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-app-lucky"
 CUSTOM_PACKAGES="$CUSTOM_PACKAGES luci-i18n-lucky-zh-cn"
-CUSTOM_PACKAGES="$CUSTOM_PACKAGES lucky_2.15.8_Openwrt_x86_64_wanji.ipk"
+CUSTOM_PACKAGES="$CUSTOM_PACKAGES lucky"
