@@ -52,7 +52,7 @@ PACKAGES="$PACKAGES luci-theme-argon"
 PACKAGES="$PACKAGES luci-app-argon-config"
 PACKAGES="$PACKAGES luci-i18n-argon-config-zh-cn"
 PACKAGES="$PACKAGES kmod-usb-storage"
-PACKAGES="$PACKAGES kmod-usb-storage-extra"
+PACKAGES="$PACKAGES kmod-usb-storage-extras"
 PACKAGES="$PACKAGES kmod-usb-storage-uas"
 PACKAGES="$PACKAGES kmod-usb-printer"
 
