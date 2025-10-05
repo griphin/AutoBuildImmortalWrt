@@ -64,6 +64,7 @@ PACKAGES="$PACKAGES luci-i18n-syncthing-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-qbittorrent-zh-cn"
 PACKAGES="$PACKAGES fuse3-utils"
 PACKAGES="$PACKAGES luci-i18n-usb-printer-zh-cn"
+PACKAGES="$PACKAGES wsdd2"
 
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
