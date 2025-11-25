@@ -58,6 +58,7 @@ PACKAGES="$PACKAGES wpad-openssl"
 PACKAGES="$PACKAGES kmod-usb-storage"
 PACKAGES="$PACKAGES kmod-usb-storage-extras"
 PACKAGES="$PACKAGES kmod-usb-storage-uas"
+PACKAGES="$PACKAGES luci-i18n-homeproxy-zh-cn"
 # PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 # PACKAGES="$PACKAGES openssh-sftp-server"
 # 文件管理器
